@@ -33,12 +33,12 @@ La inversión en suplementos solo es rentable si los resultados son medibles.
 ### 1. Panel Ejecutivo de Eficacia Biométrica
 Visión global del rendimiento. Demuestra que el programa logra un sólido **87.53% de TLAP** y un aumento general del 15.52% en fuerza. Este panel permite auditar qué combinaciones de suplementos traccionan estos promedios al alza.
 
-![Panel Ejecutivo de Eficacia Biométrica](Imagenes/Panel_Ejecutivo_de_Eficacia_Biometrica.png)
+![Panel Ejecutivo de Eficacia Biométrica](Panel_Ejecutivo_de_Eficacia_Biometrica.png)
 
 ### 2. Análisis de Cohortes Demográficas: El Declive del Mass Gainer
 El cruce crítico del modelo. Expone que el *Mass Gainer* registra apenas un **8.66%** de ganancia de fuerza en atletas de 46+ años (Alerta Roja). Se cataloga como ineficiencia operativa, exigiendo un ajuste inmediato. En contraste, la *Creatina* sostiene un éxito del **18.58%** (Zona Verde).
 
-![Análisis de Cohortes Demográficas](Imagenes/Analisis_de_Cohortes_Demograficas.jpg)
+![Análisis de Cohortes Demográficas](Analisis_de_Cohortes_Demograficas.jpg)
 
 ---
 
