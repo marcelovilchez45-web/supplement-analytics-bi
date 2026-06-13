@@ -38,7 +38,7 @@ Visión global del rendimiento. Demuestra que el programa logra un sólido **87.
 ### 2. Análisis de Cohortes Demográficas: El Declive del Mass Gainer
 El cruce crítico del modelo. Expone que el *Mass Gainer* registra apenas un **8.66%** de ganancia de fuerza en atletas de 46+ años (Alerta Roja). Se cataloga como ineficiencia operativa, exigiendo un ajuste inmediato. En contraste, la *Creatina* sostiene un éxito del **18.58%** (Zona Verde).
 
-![Análisis de Cohortes Demográficas](Imagenes/Analisis_de_Cohortes_Demograficas.jpg)
+![Análisis de Cohortes Demográficas](Imagenes/Analisis_de_Cohortes_Demograficas.png)
 
 ---
 
